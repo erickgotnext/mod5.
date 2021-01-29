@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/bin/Debug/netcoreapp3.1/Mod5Loop.deps.json
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/bin/Debug/netcoreapp3.1/Mod5Loop.runtimeconfig.json
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/bin/Debug/netcoreapp3.1/Mod5Loop.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/bin/Debug/netcoreapp3.1/Mod5Loop.dll
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/bin/Debug/netcoreapp3.1/Mod5Loop.pdb
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.dll
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.pdb
+/Users/erickmeraz/Desktop/Mod 5/Mod5Loop/Mod5Loop/obj/Debug/netcoreapp3.1/Mod5Loop.genruntimeconfig.cache
